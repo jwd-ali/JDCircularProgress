@@ -11,6 +11,11 @@ final class ViewController: UIViewController {
 
   @IBOutlet private weak var progressView: ProgressView!
 
+  override func viewDidLoad() {
+    super.viewDidLoad()
+    progressView.frontColor = .yellow
+  }
+
   @IBAction private func startAnimation(_ sender: UIButton) {
     progressView.startAnimating(repeatCount: .infinity)
   }
