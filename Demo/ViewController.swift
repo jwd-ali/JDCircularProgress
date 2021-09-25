@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import CircularProgress
+import JDCircularProgress
 final class ViewController: UIViewController {
 
   @IBOutlet private weak var progressView: ProgressView!
