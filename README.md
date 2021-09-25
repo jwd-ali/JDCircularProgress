@@ -1,5 +1,5 @@
 <img src="https://github.com/jwd-ali/TidalTestProject/blob/master/images/header/header.png">
-<img align="right" src="https://github.com/jwd-ali/WifiView/blob/main/Images/wifi.gif" width="480" />
+<img align="right" src="https://github.com/jwd-ali/JDCircularProgress/blob/main/Images/JDCircularProgress.gif" width="480" />
 <p><h1 align="left">JDCircularProgress</h1></p>
 
 [![CI Status](https://travis-ci.org/jwd-ali/RingPieChart.svg)](https://travis-ci.org/jwd-ali/RingPieChart)
