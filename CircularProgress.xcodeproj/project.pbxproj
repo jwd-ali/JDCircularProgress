@@ -84,7 +84,7 @@
 		E37A4B5526FF165C00A5A6BA = {
 			isa = PBXGroup;
 			children = (
-				E37A4B6126FF165D00A5A6BA /* CircularProgress */,
+				E37A4B9526FF1D3D00A5A6BA /* Sources */,
 				E37A4B7726FF169100A5A6BA /* Demo */,
 				E37A4B6026FF165D00A5A6BA /* Products */,
 				E37A4B8C26FF16BA00A5A6BA /* Frameworks */,
@@ -131,6 +131,14 @@
 			children = (
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E37A4B9526FF1D3D00A5A6BA /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				E37A4B6126FF165D00A5A6BA /* CircularProgress */,
+			);
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -423,7 +431,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = CircularProgress/Info.plist;
+				INFOPLIST_FILE = Sources/CircularProgress/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -449,7 +457,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = CircularProgress/Info.plist;
+				INFOPLIST_FILE = Sources/CircularProgress/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
