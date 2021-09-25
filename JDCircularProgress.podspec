@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "JDCircularProgress"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "JDCircularProgress framework"
   s.description  = <<-DESC
                   JDCircularProgress Pod can animate progress View
